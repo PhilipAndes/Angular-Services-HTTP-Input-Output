@@ -30,6 +30,9 @@ Files-edited: post-form-component.ts, posts.component.ts, posts.component.html, 
 6. <b>HTTP Client PUT Request:</b> <br>
 Files-edited: post-form-component.ts, posts.component.ts, posts.component.html, post.service.ts
 
+6. <b>HTTP Client DELERE Request:</b> <br>
+Files-edited: posts.component.ts, posts.component.html, post.service.ts
+
 
 ## Development server
 
