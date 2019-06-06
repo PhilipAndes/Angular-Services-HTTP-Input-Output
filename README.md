@@ -17,6 +17,10 @@ Edit: users.component.ts
 2. <b>Working With Observables:</b> <br>
 Files:data.service.ts, users.component.ts
 
+3. <b>HTTP Client Setup & GET Request:</b> <br>
+New-map: component-map > posts-map > ts,html,css-file<br>
+Files-edited: user.service.ts, post.service.ts, users.component.ts, app.module.ts, app.component.html
+
 
 ## Development server
 
