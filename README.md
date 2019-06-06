@@ -14,6 +14,9 @@
 Files: Created services-map > data.service.ts <br>
 Edit: users.component.ts
 
+2. <b>Working With Observables:</b> <br>
+Files:data.service.ts, users.component.ts
+
 
 ## Development server
 
