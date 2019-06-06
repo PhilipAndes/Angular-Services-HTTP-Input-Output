@@ -27,6 +27,9 @@ Files-edited: post-form-component.ts, posts.component.ts, posts.component.html
 5. <b>Input & Edit State:</b> <br>
 Files-edited: post-form-component.ts, posts.component.ts, posts.component.html, post-form-components.html
 
+6. <b>HTTP Client PUT Request:</b> <br>
+Files-edited: post-form-component.ts, posts.component.ts, posts.component.html, post.service.ts
+
 
 ## Development server
 
