@@ -10,7 +10,9 @@
 - Notice: uncomment the right part for each lesson!
 
 1. <b>Creating a Service:</b> <br>
-- ng g service services/my-service
+- ng g service services/service-name<br>
+Files: Created services-map > data.service.ts <br>
+Edit: users.component.ts
 
 
 ## Development server
