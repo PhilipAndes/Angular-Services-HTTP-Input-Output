@@ -21,6 +21,10 @@ Files:data.service.ts, users.component.ts
 New-map: component-map > posts-map > ts,html,css-file<br>
 Files-edited: user.service.ts, post.service.ts, users.component.ts, app.module.ts, app.component.html
 
+4. <b>HTTP Client Post Request:</b> <br>
+New-map: component-map > post-form-map > ts,html,css-file<br>
+Files-edited: app.module.ts, posts-component.html, post.service.ts
+
 
 ## Development server
 
